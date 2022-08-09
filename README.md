@@ -1,6 +1,6 @@
 # DSA-Project
 
-Huffman Algorithm
+Huffman Algorithm 
 
 ![Project DS_page-0001](https://user-images.githubusercontent.com/73307548/183726582-56b742ea-9365-4b93-a8dc-cceb0fe05426.jpg)
 ![Project DS_page-0002](https://user-images.githubusercontent.com/73307548/183726593-f9f14e25-2692-4eb1-a175-0acee54ebe29.jpg)
