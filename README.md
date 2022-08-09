@@ -7,7 +7,7 @@ Huffman Algorithm
 ![Project DS_page-0003](https://user-images.githubusercontent.com/73307548/183726610-03547aee-3273-4d6f-9c4f-04afbc6f8c60.jpg)
 ![Project DS_page-0004](https://user-images.githubusercontent.com/73307548/183726618-608b3262-9796-4d15-96ce-23321f31df66.jpg)
 
-# Project Report!
+# Project Report
 ![Project_Report_DS_page-0001](https://user-images.githubusercontent.com/73307548/183731218-ab2d3b4d-9d12-4c56-9969-833bda06e8a7.jpg)
 ![Project_Report_DS_page-0002](https://user-images.githubusercontent.com/73307548/183729422-ae7a5a88-a7a4-4a04-99c4-6e36e0c19c93.jpg)
 ![Project_Report_DS_page-0003](https://user-images.githubusercontent.com/73307548/183729443-e595cc08-cc5f-4d90-a78e-9f736a4b2ecc.jpg)
